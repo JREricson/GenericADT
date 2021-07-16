@@ -1,0 +1,8 @@
+linkedlist/Node.java
+ linkedlist.Node
+linkedlist/LinkedList.java
+ linkedlist.LinkedList
+linkedlist/doublyLinkedList.java
+ linkedlist.doublyLinkedList
+linkedlist/Main.java
+ linkedlist.Main

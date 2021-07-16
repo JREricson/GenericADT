@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="linkedlist.doublyLinkedListTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2021-07-16T10:24:20" hostname="zLinuxBox" time="0.126">
+  <properties/>
+  <testcase name="append()" classname="linkedlist.doublyLinkedListTest" time="0.021"/>
+  <testcase name="prepend()" classname="linkedlist.doublyLinkedListTest" time="0.001"/>
+  <testcase name="getLast()" classname="linkedlist.doublyLinkedListTest" time="0.0"/>
+  <testcase name="[1] 0" classname="linkedlist.doublyLinkedListTest" time="0.022"/>
+  <testcase name="[2] 1" classname="linkedlist.doublyLinkedListTest" time="0.001"/>
+  <testcase name="[3] 2" classname="linkedlist.doublyLinkedListTest" time="0.0"/>
+  <testcase name="[4] 400" classname="linkedlist.doublyLinkedListTest" time="0.001"/>
+  <testcase name="[5] 7000" classname="linkedlist.doublyLinkedListTest" time="0.003"/>
+  <testcase name="[6] 13001" classname="linkedlist.doublyLinkedListTest" time="0.001"/>
+  <testcase name="[7] 1850001" classname="linkedlist.doublyLinkedListTest" time="0.038"/>
+  <testcase name="clear()" classname="linkedlist.doublyLinkedListTest" time="0.001"/>
+  <testcase name="testing getFirst" classname="linkedlist.doublyLinkedListTest" time="0.001"/>
+  <testcase name="isEmpty()" classname="linkedlist.doublyLinkedListTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
